@@ -1,0 +1,24 @@
+.button{
+    text-align: center;    
+   }
+   header{
+       margin-top: 20px;
+      
+   }
+   .title{
+       font-size: 50px;
+        text-align: center;
+        font-family: monospace ;
+   }
+   .image{
+       margin-left: 50px;
+   }
+   .text{
+       margin-top: -300px;
+       width: 400px;
+       height: 100px;
+       font-size: 20px;
+       margin-left: 700px;
+     
+   }
+  
